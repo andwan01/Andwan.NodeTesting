@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Andwan.NodeTesting", "Andwan.NodeTesting\Andwan.NodeTesting.njsproj", "{101D2C5F-6A05-4B87-ABC6-BD830FF76254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101D2C5F-6A05-4B87-ABC6-BD830FF76254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101D2C5F-6A05-4B87-ABC6-BD830FF76254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101D2C5F-6A05-4B87-ABC6-BD830FF76254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101D2C5F-6A05-4B87-ABC6-BD830FF76254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4FDE46-7C3A-4518-A0B3-E88826F09AE5}
+	EndGlobalSection
+EndGlobal

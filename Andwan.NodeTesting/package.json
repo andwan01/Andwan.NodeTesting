@@ -1,0 +1,9 @@
+{
+  "name": "andwan.node-testing",
+  "version": "0.0.0",
+  "description": "Andwan.NodeTesting",
+  "main": "app.js",
+  "author": {
+    "name": "andwa"
+  }
+}
